@@ -1,5 +1,5 @@
 # NAIC2021 reid
- NAIC2021 reid复赛阶段代码（特征提取、压缩重建、重识别）
+[NAIC2021 reid](https://naic.pcl.ac.cn/contest/10/35/38) 复赛阶段代码（特征提取、压缩重建、重识别）
 
 ![NAIC2021-reid.png](NAIC2021-reid.png)
 
