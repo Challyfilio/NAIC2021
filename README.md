@@ -8,7 +8,8 @@
 ├─extract.py	            
 ├─compress.py            	
 ├─reconstruct.py			
-├─reid.py					
+├─reid.py
+├─reid_fastreid.py		
 ├─train_resnet.py			# resnet训练（以后再补）
 ├─train_update.py			# autoencoder训练
 └─project
